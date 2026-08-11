@@ -2,7 +2,16 @@
 
 [![Canlı Demo](https://img.shields.io/badge/Canl%C4%B1_Demo-Ven_Grand_Hotel-blue?style=for-the-badge)](https://ven-grand-hotel.page.gd/?i=1)
 
-*🇬🇧 [English](README.md) ∙ 🇹🇷 [Türkçe](README-tr.md)*
+---
+
+<div align="center">
+
+[![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red.svg?style=for-the-badge)](README.tr.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg?style=for-the-badge)](README.md)
+
+</div>
+
+---
 
 Ven Grand Hotel, WordPress kullanılarak inşa edilmiş kapsamlı, uçtan uca bir konaklama hizmeti platformudur. Bu proje, lüks bir otelin çevrimiçi varlığını dijitalleştirmek, tamamen işlevsel bir rezervasyon motorunu entegre etmek ve müşteri etkileşimlerini yönetmek amacıyla Burdur Mehmet Akif Ersoy Üniversitesi'ndeki İçerik Tasarımı dersi için final projesi olarak geliştirilmiştir.
 
